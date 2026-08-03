@@ -1,4 +1,4 @@
-# COLT 01/2023 project: Trello REST API testing with Postman
+Trello REST API testing with Postman
 
 ## :information_desk_person: About project
 
